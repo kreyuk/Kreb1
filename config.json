@@ -1,12 +1,12 @@
 {
-  "ownerNumber": ["6283834558105@s.whatsapp.net"],
-  "ownerName": "Neo Botz",
-  "BotName": "Neo Botz",
-  "Footer": "© Created By Lexxy Official",
+  "ownerNumber": ["6285648514679@s.whatsapp.net"],
+  "ownerName": "Kreyul Botz",
+  "BotName": "Kreyuk Botz",
+  "Footer": "© Krey",
   "email": "andra0628@gmail.com",
-  "website": "https://github.com/Lexxy24",
+  "website": "https://github.com/hacker111555",
   "region": "indonesia",
-  "pathimg": "./media/neobot.jpg",
+  "pathimg": "./media/kreybot.jpg",
   "limitCount": 40,
   "gcount": {
 	"prem": 9999,
